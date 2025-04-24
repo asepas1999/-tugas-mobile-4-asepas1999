@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buku Cerita</string>
+    <string name="shareit">Yuk cek aplikasi Buku Cerita Anak ini:</string>
+    <string name="start">Mulai</string>
+    <string name="share">Bagikan Aplikasi</string>
+    <string name="review">Review Aplikasi</string>
+    <string name="list_story">Daftar Cerita</string>
+    <string name="play">Mainkan Cerita</string>
+</resources>
